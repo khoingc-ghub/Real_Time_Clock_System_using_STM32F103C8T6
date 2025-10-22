@@ -1,4 +1,4 @@
-# Design-of-a-Real-Time-Clock-System-using-STM32F103C8T6-DS3231-and-ST7735-TFT-LCD-
+# Design-of-a-Real-Time-Clock-System-using-STM32F103C8T6
 # STM32 Real-Time Clock with Alarm & Timezone Display
 
 ## 📌 Overview
